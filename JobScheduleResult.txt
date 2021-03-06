@@ -1,0 +1,13 @@
+The late schedule plan is: 
+The job with ID:5 which would start at 2 has profit: 3
+The job with ID:1 which would start at 8 has profit: 10
+The job with ID:2 which would start at 14 has profit: 10
+The job with ID:3 which would start at 17 has profit: 10
+The total profit for late schedule is: 33
+The early schedule plan is: 
+The job with ID:1 which would start at 1 has profit: 10
+The job with ID:2 which would start at 7 has profit: 10
+The job with ID:3 which would start at 10 has profit: 10
+The job with ID:4 which would start at 18 has profit: 4
+The total profit for early schedule is: 34
+early schedule has more profit!
